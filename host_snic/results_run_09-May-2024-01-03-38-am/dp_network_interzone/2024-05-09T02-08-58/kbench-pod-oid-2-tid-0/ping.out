@@ -1,0 +1,5 @@
+PING iperfserver.kbench-service-oid-0-tid-0.kbench-pod-namespace.svc.cluster.local (10.1.24.83) 56(84) bytes of data.
+
+--- iperfserver.kbench-service-oid-0-tid-0.kbench-pod-namespace.svc.cluster.local ping statistics ---
+10 packets transmitted, 0 received, 100% packet loss, time 9207ms
+
